@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Unit Zero",
+      "rei",
+      [
+        120,
+        184,
+        240
+      ]
+    ],
+    [
+      "Smile",
+      "rei",
+      [
+        120,
+        184,
+        240
+      ]
+    ],
+    [
+      "Blue Moon",
+      "rei",
+      [
+        90,
+        140,
+        220
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "rei",
+    "shinji",
+    ""
+  ],
+  "weekBackground": "rei",
+  "storyName": "Shinji & Rei",
+  "weekBefore": "tutorial",
+  "difficulties": "Easy, Normal, Hard",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

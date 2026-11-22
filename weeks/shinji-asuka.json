@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Anta Baka",
+      "asuka",
+      [
+        214,
+        70,
+        52
+      ]
+    ],
+    [
+      "Hedgehog Dilemma",
+      "asuka",
+      [
+        214,
+        70,
+        52
+      ]
+    ],
+    [
+      "Sortie",
+      "asuka",
+      [
+        150,
+        30,
+        40
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "asuka",
+    "shinji",
+    ""
+  ],
+  "weekBackground": "asuka",
+  "storyName": "Shinji & Asuka",
+  "weekBefore": "tutorial",
+  "difficulties": "Easy, Normal, Hard",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

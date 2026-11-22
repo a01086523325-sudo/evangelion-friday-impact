@@ -1,0 +1,25 @@
+{
+  "songs": [
+    [
+      "Birthday Party",
+      "kaoru",
+      [
+        176,
+        172,
+        205
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "kaoru",
+    "shinji",
+    ""
+  ],
+  "weekBackground": "nerv",
+  "storyName": "Kaoru's Birthday",
+  "weekBefore": "tutorial",
+  "difficulties": "Easy, Normal, Hard",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false
+}

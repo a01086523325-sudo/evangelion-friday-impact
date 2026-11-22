@@ -1,0 +1,11 @@
+{
+  "image": "rei",
+  "scale": 0.773,
+  "position": [
+    0,
+    -5
+  ],
+  "idle_anim": "idle",
+  "confirm_anim": "confirm",
+  "flipX": false
+}

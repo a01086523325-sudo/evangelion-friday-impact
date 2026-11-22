@@ -1,0 +1,12 @@
+{
+	"titlex": 30,
+	"titley": 70,
+	"startx": 90,
+	"starty": 560,
+	"gfx": 690,
+	"gfy": 40,
+	"backgroundSprite": "titleBG_eva",
+	"bpm": 102,
+	"animation": "gfDance",
+	"idle": true
+}

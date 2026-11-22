@@ -1,0 +1,57 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "firstDeath",
+      "fps": 24,
+      "name": "firstDeath",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "deathLoop",
+      "fps": 4,
+      "name": "deathLoop",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "deathConfirm",
+      "fps": 24,
+      "name": "deathConfirm",
+      "indices": []
+    }
+  ],
+  "vocals_file": "",
+  "no_antialiasing": false,
+  "image": "characters/shinji-dead",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "shinji",
+  "flip_x": true,
+  "healthbar_colors": [
+    120,
+    74,
+    70
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

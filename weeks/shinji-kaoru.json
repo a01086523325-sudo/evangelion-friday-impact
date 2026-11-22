@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Piano Duet",
+      "kaoru",
+      [
+        176,
+        172,
+        205
+      ]
+    ],
+    [
+      "Daiku",
+      "kaoru",
+      [
+        176,
+        172,
+        205
+      ]
+    ],
+    [
+      "Tabris",
+      "kaoru",
+      [
+        150,
+        40,
+        60
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "kaoru",
+    "shinji",
+    ""
+  ],
+  "weekBackground": "nerv",
+  "storyName": "Shinji & Kaoru",
+  "weekBefore": "tutorial",
+  "difficulties": "Easy, Normal, Hard",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
