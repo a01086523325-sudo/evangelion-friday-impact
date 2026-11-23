@@ -20,9 +20,11 @@
 
 ## 🕹️ 플레이 방법 (How to Play)
 
-1. 게임을 다운로드하고 압축을 해제합니다.
-2. `PsychEngine.exe`를 실행합니다.
-3. 스토리 모드(Story Mode) 또는 프리플레이(Free Play)에서 원하는 위크를 선택해 즐겨보세요!
+ ### 📦 설치 및 플레이 방법
+
+1. 게임을 실행한 뒤 **Mods** 메뉴에서 **Evangelion Friday Impact**가 활성화되어 있는지 확인합니다.
+2. **Story Mode** 또는 **Freeplay**에서 위크를 선택해 플레이를 즐기세요!
+
 
 ---
 
