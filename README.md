@@ -22,10 +22,13 @@ This is a full-week FNF mod based on the legendary anime *Neon Genesis Evangelio
   - Charting
 
 ### 📦 How to Install & Play
-1. Go to the **Releases** section on the right side of this page.
-2. Download the latest version zip file (e.g., `Evangelion_Friday_Impact_v1.0.0.zip`).
-3. Extract the ZIP file anywhere on your PC.
-4. Run the `.exe` file and enjoy the mod!
+
+1. Make sure you have **Friday Night Funkin' (Psych Engine 0.7.x or 1.0+)** installed.
+2. Go to the **Releases** section on the right side of this page and download the latest zip file (e.g., `Evangelion_Friday_Impact_v1.0.0.zip`).
+3. Extract the ZIP file and move the extracted folder into your Psych Engine's `mods/` directory.
+4. Launch the game, go to the **Mods** menu, and make sure **Evangelion Friday Impact** is enabled.
+5. Select the week in **Story Mode** or **Freeplay** and enjoy!
+
 
 ---
 
@@ -47,10 +50,13 @@ This is a full-week FNF mod based on the legendary anime *Neon Genesis Evangelio
   - 채보 제작 (Charting)
 
 ### 📦 설치 및 플레이 방법
-1. 이 페이지 우측에 있는 **Releases** 섹션으로 이동합니다.
-2. 최신 버전의 zip 파일(예: `Evangelion_Friday_Impact_v1.0.0.zip`)을 다운로드합니다.
-3. PC의 원하는 위치에 ZIP 파일의 압축을 해제합니다.
-4. `.exe` 실행 파일을 더블 클릭하여 모드를 즐기세요!
+
+1. 먼저 **프라이데이 나이트 펑킨 (Psych Engine 0.7.x 또는 1.0 이상)**이 설치되어 있어야 합니다.
+2. 이 페이지 우측에 있는 **Releases** 섹션에서 최신 버전의 zip 파일(예: `Evangelion_Friday_Impact_v1.0.0.zip`)을 다운로드합니다.
+3. 다운로드한 ZIP 파일의 압축을 풀고, 해당 폴더를 Psych Engine 설치 경로 내의 `mods/` 폴더 안에 넣습니다.
+4. 게임을 실행한 뒤 **Mods** 메뉴에서 **Evangelion Friday Impact**가 활성화되어 있는지 확인합니다.
+5. **Story Mode** 또는 **Freeplay**에서 위크를 선택해 플레이를 즐기세요!
+
 
 ---
 
