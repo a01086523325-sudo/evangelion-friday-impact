@@ -20,9 +20,9 @@
 
 ## 🕹️ How to Play
 
-1. Download and extract the game archive.
-2. Launch `PsychEngine.exe`.
-3. Choose your desired week in Story Mode or Free Play and enjoy!
+1. Launch the game, go to the **Mods** menu, and make sure **Evangelion Friday Impact** is enabled.
+2. Select the week in **Story Mode** or **Freeplay** and enjoy!
+
 
 ---
 
